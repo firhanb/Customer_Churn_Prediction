@@ -4,7 +4,7 @@
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
-- [Results/Findings](#results/findings)
+- [Results and Findings](#results-and-findings)
 - [Recommendations](#recommendations)
 
 ### Project Overview
@@ -57,7 +57,7 @@ EDA involved exploring the data to answer key questions, such as:
 - After that, Evaluating the best model by showing all of the model evaluation metrics and scores, then Select Model with the Highest Recall & F1 Score. As previously explained, preventing churn is the company priority. This suggests that Recall might be the most appropriate metric to prioritize. By maximizing recall, the company ensures that it identifies the majority of customers who are at risk of churning, allowing for timely and effective interventions. However, maximizing recall without considering precision can also be costly. That's why monitoring F1 score is also essential to find the optimal balance.
 
 
-### Results/Findings
+### Results and Findings
 
 The analysis results are summarized as follows:
 1. The XGBoost model is performing consistently on both the training and test datasets, achieving a recall of around 82% for Class 1 (churn). 
