@@ -1,4 +1,4 @@
-# E-Commerce Sales Analysis
+# Customer Churn Prediction
 
 ## Table of Contents
 
