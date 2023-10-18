@@ -72,10 +72,10 @@ The analysis results are summarized as follows:
 
 ### Recommendations
 
-Based on the analysis, we recommend the following actions:
+Based on the analysis, I recommend the following actions:
 - Reassess Monthly Contracts: Investigate why monthly contracts have a higher churn rate
 - Engage customers in feedback surveys, especially those on monthly contracts
-- Evaluating the quality and pricing of their services, especially for Fiber optic services and Movies Streaming services.
+- Evaluating the quality and pricing of their services, especially for Internet Fiber optic services 
 - Examining the electronic check payment system for any issues
 
 
