@@ -66,7 +66,7 @@ The analysis results are summarized as follows:
 
 ![Model Evaluation](./model_eval.png)
 
-4. Based on The ROC AUC Curve, XGboost model providing high recall with an AUC of around 0.83 for training and 0.82 for testing is a good indication. 
+4. Based on The ROC AUC Curve, XGboost model providing a high recall score with an AUC of around 0.83 for training and 0.82 for testing is a good indication. 
 5. These AUC values suggest that the model is performing well in distinguishing between the churn and not churn, despite the imbalance. When data classes are imbalanced, achieving a high recall and a good AUC can be challenging, This means The model can achieve high recall without sacrificing too much False Positive Rate, which is especially important in imbalanced datasets like churn prediction
 
 
